@@ -7,7 +7,9 @@ Data is not included.
 
 ---
 type: "project" 
-date: "2025-06-12" # Date you first upload your project.
+
+date: "2025-06-12"
+
 title: "Univariate analysis on melody evaluation test"
 
 names: [Hsin-Yu Cheng]
